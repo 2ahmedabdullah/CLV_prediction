@@ -6,9 +6,9 @@ Customer value or Customer Lifetime Value (CLV) is the total monetary value of t
 
 The objective was to predict 3 months of sales using the one year history of sales.
 
-Analyzed customer purchase behavior to predict their purchases over the next 90-days. 
+Analyze customer purchase behavior to predict their purchases over the next 90-days. 
 
-Created (RFM) features for 2 predictive models (90-day spend amount and spend probability).
+Create (RFM) features for 2 predictive models (90-day spend amount and spend probability).
 
 ## Dataset
 
