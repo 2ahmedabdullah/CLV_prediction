@@ -2,6 +2,9 @@
 
 Customer value or Customer Lifetime Value (CLV) is the total monetary value of transactions/purchases made by a customer with your business over his entire lifetime.
 
+![1](clv.png)
+
+
 ## Objective
 
 The objective was to predict 3 months of sales using the one year history of sales.
