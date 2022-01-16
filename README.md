@@ -22,7 +22,7 @@ Dataset CDNOW
 
 We aggregates the transaction-level data into the customer level and calculates the recency, frequency, and monetary_value for each customer.
 
-![3](4.png)
+![3](4.jpg)
 
 frequency — the number of repeat purchases (more than 1 purchases)
 
